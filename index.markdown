@@ -1,4 +1,9 @@
-# test
+---
+title: Home
+layout: default
+---
+
+# test #
 
 This is a test.
 
